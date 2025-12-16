@@ -1,0 +1,73 @@
+# Data directories
+data/
+*.csv
+*.npz
+*.h5
+*.hdf5
+*.keras
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Cache
+cache/
+.cache/
+*.cache
+
+# Model outputs
+*.weights
+*.pt
+*.pth
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Kaggle
+kaggle.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
